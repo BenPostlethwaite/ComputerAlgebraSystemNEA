@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MathsLibrary.Equation" Collapsed="true">
+    <Position X="12.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAEAgAEgAAAAAAIAAAIAEAAAgAAAAAAgDA=</HashCode>
+      <FileName>equation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SolutionSet" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAQAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>equation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathsLibrary.Matrix" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAQAQEgAoA6QMIACAAEAAAAOAAAIAAAGgAgDA=</HashCode>
+      <FileName>matrix.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Utils" Collapsed="true">
+    <Position X="0.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQSYAAgAAAAAACEACAACAIAAgAAAAgAQ=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathsLibrary.Add" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Subtract" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Multiply" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Divide" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Power" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Log" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Sin" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQCCAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Cos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQCCAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Tan" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQCCAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.ArcSin" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.ArcCos" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.ArcTan" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Number" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAEAAQEgAAACAAAAAAAQCAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Variable" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEgAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.Constant" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAEAAAEgAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MathsLibrary.E" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAEAAAAAAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathsLibrary.Pi" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAEAAAAAAAAAAAAAAAEACAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MathsLibrary.Expression" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CQAICEpQAIAkEgUE7pVESCgAAJugLXkAglqMSASAgrE=</HashCode>
+      <FileName>expression.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="MathsLibrary.ILatexPrintable" Collapsed="true">
+    <Position X="2.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MathsLibrary.IOperator" Collapsed="true">
+    <Position X="4.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAAAEgAIAAgAAAAAAABFAAAAAAAQACAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MathsLibrary.ITrigFunction" Collapsed="true">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>utils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MathsLibrary.iHasNumericValue" Collapsed="true">
+    <Position X="6" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MathsLibrary.Operand" Collapsed="true">
+    <Position X="1.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>expressionOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MathsLibrary.MatrixOperand" Collapsed="true">
+    <Position X="3.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>matrix.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
