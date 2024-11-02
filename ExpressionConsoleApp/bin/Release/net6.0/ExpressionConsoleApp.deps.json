@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExpressionConsoleApp/1.0.0": {
+        "dependencies": {
+          "MathsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExpressionConsoleApp.dll": {}
+        }
+      },
+      "MathsLibrary/1.0.0": {
+        "runtime": {
+          "MathsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpressionConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
